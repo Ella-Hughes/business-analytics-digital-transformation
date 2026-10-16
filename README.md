@@ -7,6 +7,21 @@ An end-to-end retail business analytics project using Python, pandas, SQL and St
 
 The project demonstrates how businesses can use data cleaning, exploratory analysis, interactive dashboards and performance metrics to support more informed operational and strategic decisions.
 
+## Dashboard Preview
+
+This interactive Streamlit dashboard analyses real retail transaction data to explore revenue trends, product performance and geographical markets.
+
+### Monthly Revenue Trend
+![Monthly Revenue Trend](visualisations/monthly_revenue_dashboard.png)
+
+### Top 10 Products by Revenue
+![Top 10 Products by Revenue](visualisations/top_products_dashboard.png)
+
+### Revenue by Country
+![Revenue by Country](visualisations/country_revenue_dashboard.png)
+
+The dashboard also includes interactive country filtering and key business metrics, including total revenue, total orders and units sold.
+
 ## Business Problem
 
 Retail businesses need reliable information about revenue, sales trends, product performance and geographical markets.

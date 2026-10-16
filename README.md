@@ -15,7 +15,9 @@ This interactive Streamlit dashboard analyses real retail transaction data to ex
 ![Monthly Revenue Trend](visualisations/monthly_revenue_dashboard.png)
 
 ### Top 10 Products by Revenue
+
 ![Top 10 Products by Revenue](visualisations/top_products_dashboard.png)
+
 
 ### Revenue by Country
 ![Revenue by Country](visualisations/country_revenue_dashboard.png)

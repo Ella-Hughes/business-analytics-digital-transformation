@@ -1,0 +1,11 @@
+
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+retail_analytics.db
+Data/raw/
+Data/cleaned_retail_sales.csv
+
